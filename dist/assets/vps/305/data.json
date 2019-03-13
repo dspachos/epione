@@ -1,0 +1,544 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "final": 0,
+      "progress": 0,
+      "title": "Natalie is suffering from chronic pain",
+      "subtitle": "",
+      "content": "Natalie has been suffering from pain in her neck for more than 10 years. The pain is almost constant but also related to physical activity and gets worse when she turns her head to the right. Her health issue is making it difficult for her to work as a secretary for  long time periods in the last 5 years and for the last 6 months she has been unemployed. Due to her ailments she is also being treated for depression. Three months ago she was treated for herpes zoster in her lower torso but ever since she has been experiencing burning pain and hypersensitivity in that area caused by post-herpetic neuralgia.",
+      "support": "",
+      "images": [
+        {
+          "src": "1.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Continue",
+          "target_node": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "final": 0,
+      "progress": 20,
+      "title": "Treatment for the neuralgia",
+      "subtitle": "",
+      "content": "For the last three months, Natalie has been prescribed gabapentin by her GP for her neuralgia. Unfortunately, the medicine had little to no effect in reducing the  amount of pain she was in and she has been experiencing dizziness as a side-effect. Her GP decided to refer her to a pain clinic. Natalie decided to:",
+      "support": "Gabapentin is a medication which is used to treat partial seizures, neuropathic pain, hot flashes, and restless legs syndrome. It is recommended as one of a number of first-line medications for the treatment of neuropathic pain caused by diabetic neuropathy, postherpetic neuralgia, and central neuropathic pain. About 15% of those given gabapentin for diabetic neuropathy or postherpetic neuralgia have a measurable benefit. Gabapentin is taken by mouth. Common side effects of gabapentin include sleepiness and dizziness. https://www.drugs.com/monograph/gabapentin.html developed by The American Society of Health-System Pharmacists and https://doi.org/10.1002%2F14651858.CD007938.pub4",
+      "images": [
+        {
+          "src": "2.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "1. Continue taking gabapentin and ignore her GP’s advice to visit a pain clinic.",
+          "target_node": 3
+        },
+        {
+          "label": "2. Visit a pain clinic as her GP advised her.",
+          "target_node": 4
+        },
+        {
+          "label": "3. Stop taking gabapentin and also ignore her GP's advice to visit a pain clinic.",
+          "target_node": 5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "final": 0,
+      "progress": 25,
+      "title": "The pain is still present",
+      "subtitle": "",
+      "content": "A week later, Natalie woke up in great pain. She was also feeling really dizzy and could not even get out of bed. She realized that she had made the wrong decision and decided to:",
+      "support": "",
+      "images": [
+        {
+          "src": "3.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "1. Call her GP and ask him what she should do.",
+          "target_node": 6
+        },
+        {
+          "label": "2. Consult a specialist in the pain clinic, as her GP  had advised her.",
+          "target_node": 4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "final": 0,
+      "progress": 35,
+      "title": "Visit to a pain clinic",
+      "subtitle": "",
+      "content": "Natalie visited a pain clinic where a specialist reviewed her medical history and prescribed her a personalized treatment consisting of pregabalin and a local treatment with capsaicin patches. He also made an appointment for a second consultation in 2 months.",
+      "support": "Pregabalin is a medication which is used to treat epilepsy, neuropathic pain, fibromyalgia, and generalized anxiety disorder. Common side effects include: sleepiness, confusion, trouble with memory, poor motor coordination, dry mouth, problem with vision, and weight gain. https://www.drugs.com/monograph/pregabalin.html developed by The American Society of Health-System Pharmacists. Capsaicin is used as an analgesic in topical ointments and dermal patches to relieve pain. It is also used to reduce the symptoms of peripheral neuropathy, such as post-herpetic neuralgia caused by shingles as a  transdermal patch with moderate to substantial results. http://www.mdpi.com/1420-3049/21/7/844/htm",
+      "images": [
+        {
+          "src": "4.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Continue",
+          "target_node": 7
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "final": 0,
+      "progress": 25,
+      "title": "The pain deteriorates",
+      "subtitle": "",
+      "content": "A week later, Natalie woke up in excruciating pain. She stayed in bed all day because she could barely move. In the afternoon she decided to:",
+      "support": "",
+      "images": [
+        {
+          "src": "5.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "1. Call her GP and inform him about her condition.",
+          "target_node": 6
+        },
+        {
+          "label": "2. Consult a specialist in the pain clinic, as her GP had advised her.",
+          "target_node": 4
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "final": 0,
+      "progress": 30,
+      "title": "Natalie consults her GP",
+      "subtitle": "",
+      "content": "Natalie's GP advised her to visit a specialist in a pain clinic that could consult her about possible alternative solutions to her problem. She decided to follow her GP’s advice this time.",
+      "support": "",
+      "images": [
+        {
+          "src": "6.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Continue",
+          "target_node": 4
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "final": 0,
+      "progress": 40,
+      "title": "",
+      "subtitle": "Problems with the new treatment",
+      "content": "During the first month of her new treatment, Natalie realized that the prescribed medicine schedule was quite complex for her to follow and she often forgot to take her medication. Her pain didn't seem to really get any better. She decided to:",
+      "support": "Medicine non-adherence is a major problem and can be attributed to different reasons. It affects both patient and doctor as well as their relationship. If a patient is having problems with his/her medication he/she is advised to talk to his/her doctor and explain the nature of the problem so that an acceptable by both parties solution can be found. Patients are advised against stop taking or modifying the doses of their medication without contacting their attending doctor. Below is a link to an article about medicine non-adherence for medicare personnel as well as patients and their carers https://www.nice.org.uk/guidance/cg76 developed by NICE and an online course on how to deal with medicine non-adherence https://www.futurelearn.com/courses/medicines-adherence-patient-behaviour developed by FutureLearn",
+      "images": [
+        {
+          "src": "7.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "1. Ask her sister for help.",
+          "target_node": 24
+        },
+        {
+          "label": "2. Continue with her current treatment until the next meeting with her attending pain specialist in a month’s time.",
+          "target_node": 9
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "final": 0,
+      "progress": 55,
+      "title": "Discussion and solution",
+      "subtitle": "",
+      "content": "Natalie arranged a meeting with her attending pain specialist and explained to him that she was finding her current medicine schedule too complex and that it was hard for her to adhere to. They decided together to stick to the same medication, but change the way Natalie would take her pills in order to make it easier for her to keep up with.",
+      "support": "Medicine non-adherence is a major problem and can be attributed to different reasons. It affects both patient and doctor as well as their relationship. If a patient is having problems with his/her medication he/she is advised to talk to his/her doctor and explain the nature of the problem so that an acceptable by both parties solution can be found. Patients are advised against stop taking or modifying the doses of their medication without contacting their attending doctor. Below is a link to an article about medicine non-adherence for medicare personnel as well as patients and their carers https://www.nice.org.uk/guidance/cg76 developed by NICE and an online course on how to deal with medicine non-adherence https://www.futurelearn.com/courses/medicines-adherence-patient-behaviour developed by FutureLearn",
+      "images": [
+        {
+          "src": "8.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Continue",
+          "target_node": 12
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "final": 0,
+      "progress": 45,
+      "title": "Natalie wakes up in pain",
+      "subtitle": "",
+      "content": "A week later, Natalie woke up in pain. She was planning to do some cleaning around the house but the pain was too intense for her to do anything. She thought that she should:",
+      "support": "",
+      "images": [
+        {
+          "src": "9.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "1. Arrange a meeting with her pain specialist, tell him about the pain and the problem she was having with following the treatment correctly.",
+          "target_node": 8
+        },
+        {
+          "label": "2. Do the chores she was planning to, despite her pain.",
+          "target_node": 10
+        },
+        {
+          "label": "3. Exercise  a bit in order to make the pain more bearable as her specialist had suggested she try out.",
+          "target_node": 11
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "final": 0,
+      "progress": 50,
+      "title": "Natalie's pain got worse",
+      "subtitle": "",
+      "content": "In the afternoon, Natalie's pain got worse because she was very tired from doing the house chores. The pain was so intense that she could barely move. She decided to:",
+      "support": "Certain exercises or chores as well as general body posture can have significant effects on chronic pain. Depending on their ailment, patients should be advised to avoid engaging in certain types of physical labor or modifying the way they are engaging in it as well as altering their daily habits to help them manage the pain better. Below is a link to an article with general tips on how to best accommodate those changes to your lifestyle https://www.physio-pedia.com/Back_School developed by Physiopedia",
+      "images": [
+        {
+          "src": "10.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "1. Arrange a meeting with her pain specialist, tell him about the pain and the problem she was having with following the treatment correctly.",
+          "target_node": 8
+        },
+        {
+          "label": "2. Exercise  a bit in order to make the pain more bearable as her specialist had suggested she try out.",
+          "target_node": 11
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "final": 0,
+      "progress": 55,
+      "title": "The pain is relieved",
+      "subtitle": "",
+      "content": "After following the home-exercise program, her pain specialist had suggested to her in order to relieve the pain when it was getting intense, Natalie felt much better. The pain subsided and she was able to get on with her planned schedule.",
+      "support": "There are multiple exercise programs for patients with all kind of issues that can be followed either under  professional supervision or help or even at home. However, since most programs are designed specifically for certain ailments if patients are interested in following one they should do so after contacting a medicare professional that can guide them to the one that can have substantial benefit for them. The right exercise can help patients both physically as well as mentally while an inappropriate one can deteriorate their existing problems. Overall, there are some general guidelines for exercise programs that you can read about by clicking https://www.emedicinehealth.com/walking_for_fitness/article_em.htm#getting_started developed by eMedicineHealth",
+      "images": [
+        {
+          "src": "11.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Continue",
+          "target_node": 12
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "final": 0,
+      "progress": 60,
+      "title": "Six months later",
+      "subtitle": "",
+      "content": "Natalie has been trying out a more intensive non-pharmacologic treatment (see support info) prescribed by her pain specialist for almost a month now. She is still taking her pregabalin pills as prescribed. She has been feeling so much better than she has for a long time and is attributing her improvement to her new treatment. She is wondering whether she should cut down on the pregabalin pills but her next consultation is in three months time. After doing some thinking on it she decided to:",
+      "support": "Transcutaneous electrical nerve stimulation (TENS or TNS) is the use of electric current produced by a device to stimulate the nerves for therapeutic purposes. It  is used as a non-invasive nerve stimulation intended to reduce both acute and chronic pain. https://doi.org/10.1212%2FWNL.0b013e3181c918fc developed by Therapeutics and Technology Assessment Subcommittee of the American Academy of Neurology",
+      "images": [
+        {
+          "src": "12.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "1. Wait until her appointment and continue with both treatments. ",
+          "target_node": 13
+        },
+        {
+          "label": "2. Try to get some feedback from people in the social media that may have the same issues.",
+          "target_node": 14
+        },
+        {
+          "label": "3. Stop the treatment with pregabalin and continue only with the TENS.",
+          "target_node": 15
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "final": 0,
+      "progress": 75,
+      "title": "Natalie applies for a job",
+      "subtitle": "",
+      "content": "Since Natalie was feeling better she decided to apply for a job opening as a secretary which she got. She was enthusiastic about being able to feel productive again and having day to day interactions with new people. She felt that it was probably the right decision to continue with both treatments but kept in mind to bring it up on her next appointment at the pain canter in case there was a possibility to cut down on her medication.",
+      "support": "Certain exercises or chores as well as general body posture can have significant effects on chronic pain. Depending on their ailment, patients should be advised to avoid engaging in certain types of physical labor or modifying the way they are engaging in it as well as altering their daily habits to help them manage the pain better. Below is a link to an article with general tips on how to best accommodate those changes to your lifestyle https://www.physio-pedia.com/Back_School developed by Physiopedia",
+      "images": [
+        {
+          "src": "13.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Continue",
+          "target_node": 19
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "final": 0,
+      "progress": 75,
+      "title": "Searching through the social media",
+      "subtitle": "",
+      "content": "She logged on to a social media group of patients she discovered by searching online and expressed her dilemma. Over the course of the next hour she got a dozen of conflicting opinions and she ended up more confused than before. After sleeping on it, in the morning she decided to:",
+      "support": "",
+      "images": [
+        {
+          "src": "14.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "1. Wait until her appointment and continue with both treatments. ",
+          "target_node": 13
+        },
+        {
+          "label": "2. Stop the treatment with pregabalin and continue only with the TENS.",
+          "target_node": 15
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "final": 0,
+      "progress": 65,
+      "title": "Stop taking pregabalin",
+      "subtitle": "",
+      "content": "A week later, Natalie started realizing that she was feeling agitated all day long and she was starting to behave aggressively in her social interactions. She decided to:",
+      "support": "Following abrupt or rapid discontinuation of pregabalin, some people reported symptoms varying in significance. If the patient receiving pregabalin treatment wishes to discontinue the treatment, he/she is advised to contact his/her doctor so that the latter can guide the patient through the discontinuation. http://www.medicines.org.uk/EMC/medicine/14651/SPC/Lyrica+Capsules/ developed by eMC",
+      "images": [
+        {
+          "src": "15.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "1. Talk to a friend of hers.",
+          "target_node": 16
+        },
+        {
+          "label": "2. Call her pain specialist.",
+          "target_node": 17
+        },
+        {
+          "label": "3. Ignore her symptoms.",
+          "target_node": 18
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "final": 0,
+      "progress": 70,
+      "title": "Confiding to a friend",
+      "subtitle": "",
+      "content": "After talking to a friend of hers that confirmed her realizations she decided to:",
+      "support": "Following abrupt or rapid discontinuation of pregabalin, some people reported symptoms varying in significance. If the patient receiving pregabalin treatment wishes to discontinue the treatment, he/she is advised to contact his/her doctor so that the latter can guide the patient through the discontinuation. http://www.medicines.org.uk/EMC/medicine/14651/SPC/Lyrica+Capsules/ developed by eMC",
+      "images": [
+        {
+          "src": "16.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "1. Call her pain specialist.",
+          "target_node": 17
+        },
+        {
+          "label": "2. Ignore her symptoms.",
+          "target_node": 18
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "final": 0,
+      "progress": 75,
+      "title": "Confiding to her specialist",
+      "subtitle": "",
+      "content": "Her pain specialist told her that the change in her behavior could be attributed to her body withdrawing from her medication and advised her to start taking her pills again and not hesitate to contact him if she wasn’t feeling well. Natalie, quite alarmed, decided to follow her doctor's advice.",
+      "support": "Following abrupt or rapid discontinuation of pregabalin, some people reported symptoms varying in significance. If the patient receiving pregabalin treatment wishes to discontinue the treatment, he/she is advised to contact his/her doctor so that the latter can guide the patient through the discontinuation. http://www.medicines.org.uk/EMC/medicine/14651/SPC/Lyrica+Capsules/ developed by eMC",
+      "images": [
+        {
+          "src": "17.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Continue",
+          "target_node": 19
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "final": 0,
+      "progress": 75,
+      "title": "Incident at a cafe",
+      "subtitle": "",
+      "content": "Two days later, while enjoying a cup of tea and reading a book at a cafe, Natalie started sweating intensely and felt her heart racing. She asked a waitress for help just before she collapsed and was rushed to the hospital. The doctors in the ER stabilized her and then admitted her for further monitoring. After she was fit to talk to her attending physician for further information on her medical history, he came to the conclusion that all her symptoms including her recent incident could be attributed to her body withdrawing from her medication and advised her to start taking her pills again and contact her pain specialist if she wasn’t feeling well. Natalie, quite alarmed, decided to follow the doctor's advice.",
+      "support": "Following abrupt or rapid discontinuation of pregabalin, some people reported symptoms varying in significance. If the patient receiving pregabalin treatment wishes to discontinue the treatment, he/she is advised to contact his/her doctor so that the latter can guide the patient through the discontinuation. http://www.medicines.org.uk/EMC/medicine/14651/SPC/Lyrica+Capsules/ developed by eMC",
+      "images": [
+        {
+          "src": "18.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Continue",
+          "target_node": 19
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "final": 0,
+      "progress": 80,
+      "title": "A year later",
+      "subtitle": "",
+      "content": "Natalie has been doing really well with little to no pain at all following her combined treatment of pregabalin and TENS. She is doing really well at her job and has also made new friends from work. She is still having trouble remembering all the specialized information about her condition her doctors have explained to her over the years.  She is reluctant to use the internet about it due to the lack of verification on the information provided. She decided to:",
+      "support": "Receiving and handling of medical information can often be overwhelming for patients. Medicare professionals often forget that they are not dealing with trained professionals when handing out that kind of information. Researching the internet for information can also be misleading and possibly precarious due to the lack of verification in most sources. Patients are encouraged to express their questions to the Medicare personnel they are coming in contact with so that they can be guided to a solution that best suits their needs whether it be verified information over the internet, mobile applications or third party groups.",
+      "images": [
+        {
+          "src": "19.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "1. Ask her local pharmacist for some leaflets with information regarding her condition.",
+          "target_node": 20
+        },
+        {
+          "label": "2. Talk about it with one of her friends that is suffering from chronic pain.",
+          "target_node": 21
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "final": 0,
+      "progress": 88,
+      "title": "Browsing the medicine leaflets",
+      "subtitle": "",
+      "content": "Her local pharmacist was eager to provide Natalie with leaflets regarding medication for chronic pain medication. Returning home she browsed through them and found a few information that might prove useful but also read that there were support groups for people suffering from chronic pain as well as links for a couple of them. Thinking about it she decided that it didn't sound like a bad idea and that she should try to get in contact with one of those groups",
+      "support": "",
+      "images": [
+        {
+          "src": "20.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Continue",
+          "target_node": 22
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "final": 0,
+      "progress": 88,
+      "title": "Her friend recommends a support group",
+      "subtitle": "",
+      "content": " Her friend recommended she try out the support group she was attending. She told her that she felt that the procedure had helped her in more than one aspects of her everyday life. Natalie decided to join her friend in her next meeting at the pain support group.",
+      "support": "",
+      "images": [
+        {
+          "src": "21.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Continue.",
+          "target_node": 22
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "final": 0,
+      "progress": 93,
+      "title": "First contact with the support group",
+      "subtitle": "",
+      "content": "Natalie attended the support group for patients with chronic pain and she felt really relaxed among people that were facing the same problems as her in their everyday lives. She realized that hearing other people talk about their experiences helped her remember all the information she was finding hard to. The specialists and psychologists that were working at the support group were very helpful as well and provided targeted information in a more casual manner. They also suggested to her to try out a mobile application they were using that introduced the patients to various scenarios they might experience in their everyday lives.",
+      "support": "In a support group, members provide each other with various types of help, usually nonprofessional and non-material, for a particular shared, usually burdensome, characteristic. Members with the same issues can come together for sharing coping strategies, to feel more empowered and for a sense of community. The help may take the form of providing and evaluating relevant information, relating personal experiences, listening to and accepting others' experiences, providing sympathetic understanding and establishing social networks. Nowadays there also online support groups for various issues and the conversations are supervised by moderators where members can share relevant information regarding their common issues.",
+      "images": [
+        {
+          "src": "22.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Continue",
+          "target_node": 23
+        }
+      ]
+    },
+        {
+      "id": 24,
+      "final": 0,
+      "progress": 55,
+      "title": "Help from her sister",
+      "subtitle": "",
+      "content": " Natalie's sister helped her with applying the capsaicin patches and soon Natalie felt confident enough to do it correctly on her own. They tried to organize her daily schedule in a way to better suit her in taking her medication at the prescribed times but they both decided that Natalie should probably mention her problems to her attending doctor on her next appointment and try to find a solution that suited her lifestyle better.",
+      "support": "Medicine non-adherence is a major problem and can be attributed to different reasons. It affects both patient and doctor as well as their relationship. If a patient is having problems with his/her medication he/she is advised to talk to his/her doctor and explain the nature of the problem so that an acceptable by both parties solution can be found. Patients are advised against stop taking or modifying the doses of their medication without contacting their attending doctor. Below is a link to an article about medicine non-adherence for medicare personnel as well as patients and their carers https://www.nice.org.uk/guidance/cg76 developed by NICE and an online course on how to deal with medicine non-adherence https://www.futurelearn.com/courses/medicines-adherence-patient-behaviour developed by FutureLearn",
+      "images": [
+        {
+          "src": "24.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Continue.",
+          "target_node": 12
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "final": 1,
+      "progress": 100,
+      "title": "Congratulations!",
+      "subtitle": "",
+      "content": "After learning to deal with her pain and her everyday activities better, Natalie is feeling more confident that she can cope with any problem that will appear due to her condition. She is feeling safe knowing that a group of specialized Medicare personnel is available to help her out whether she is in need of treatment or advice. Meanwhile her friends and the members of the patient community are there to help her with her emotional trouble.",
+      "support": "",
+      "images": [
+        {
+          "src": "23.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Play from the beginning",
+          "target_node": 1
+        }
+      ]
+    }
+  ]
+}

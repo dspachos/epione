@@ -1,0 +1,596 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "final": 0,
+      "progress": 15,
+      "title": "Margarita is a patient with Rheumatoid Arthritis.",
+      "subtitle": "",
+      "content": "Margarita suffers from rheumatoid arthritis, a disease which causes various problems in her everyday life and difficulties in her work and household chores. She is 55 years old and has been diagnosed with rheumatoid arthritis 9 years ago. She has mild deformities in her fingers due to the inflammation in her fingers and from the past year until now she is experiencing severe discomfort in both her knees. Although she receives medication, the pain is sometimes acute in nature, making it very difficult for her to carry through simple tasks and daily activities. Her doctor advised her to try to reduce her weight so that her knees are less stressed and also suggested her to attend physiotherapy sessions under guidance. She decided to follow her doctor's advice.",
+      "support": "",
+      "images": [
+        {
+          "src": "1.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Continue",
+          "target_node": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "final": 0,
+      "progress": 29,
+      "title": "Household chores",
+      "subtitle": "",
+      "content": "One week after starting physiotherapy and proper diet for weight loss, Margarita had guests at her house to  celebrate her husband's birthday. She cleaned up the house, went shopping and cooked a delicious meal for her guests. The next day she woke up feeling her whole body tired, her joints stiff and her knees swollen, with a painful burning sensation in the area around the knees. She managed to get out of bed an hour later with intense pain, wondering what to do.",
+      "support": "",
+      "images": [
+        {
+          "src": "2.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Take painkillers and anti-inflammatory drugs and rest",
+          "target_node": 3
+        },
+        {
+          "label": "Contact her doctor and inform him about her current condition.",
+          "target_node": 4
+        },
+        {
+          "label": "Ignore the pain as much as she can and slowly tidy up the house from yesterday's dinner.",
+          "target_node": 5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "final": 0,
+      "progress": "29",
+      "title": "Painkillers and anti-inflammatory drugs ",
+      "subtitle": "",
+      "content": "In a few hours Margarita felt a little better and realized she should be more cautious of her physical activity and avoid exhausting herself without having some kind of rest. The next day she went to her job and then visited her physiotherapist, who advised her to let her knees rest. For more advice, click on Supporting Information.",
+      "support": "Fatigue is a common symptom of rheumatoid arthritis. Pain and stiffness often urge people with rheumatoid arthritis to become inactive. Unfortunately, inactiveness can lead to loss of joint movement, contraction, and loss of muscle strength. Physiotherapists advise to seek help if joint pain or inadequate joint mobility becomes an obstacle in normal movement.",
+      "images": [
+        {
+          "src": "3.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Continue",
+          "target_node": 6
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "final": 0,
+      "progress": "29",
+      "title": "Contact with Doctor",
+      "subtitle": "",
+      "content": "4. Her doctor informed her that she should take painkillers and anti-inflammatory drugs to feel better and suggested to discuss together a possible change in her medication during their next scheduled appointment. For more advice, click on Supporting Information.",
+      "support": "Fatigue is a common symptom of rheumatoid arthritis. Pain and stiffness often urge people with rheumatoid arthritis to become inactive. Unfortunately, inactiveness can lead to loss of joint movement, contraction, and loss of muscle strength. Physiotherapists advise to seek help if joint pain or inadequate joint mobility becomes an obstacle in normal movement.",
+      "images": [
+        {
+          "src": "4.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Continue",
+          "target_node": 6
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "final": 0,
+      "progress": "29",
+      "title": "Ignoring pain",
+      "subtitle": "",
+      "content": "The next day the pain was more severe and the knee edema had grown. Margarita was forced to get sick leave from her job and wondered what she should do.",
+      "support": "",
+      "images": [
+        {
+          "src": "5.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Take painkillers and anti-inflammatory drugs and rest.",
+          "target_node": 3
+        },
+        {
+          "label": "Contact her doctor and inform him about her current condition.",
+          "target_node": 4
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "final": 0,
+      "progress": 43,
+      "title": "Workplace issues",
+      "subtitle": "",
+      "content": "The next day Margarita went to work, where she had to go up many stairs as she worked in a 2-storey building without a functioning elevator. During the day, she experienced pain in her knees and as a result she had difficulty moving up and down the stairs, rendering her unable to work efficiently. She decided to:",
+      "support": "",
+      "images": [
+        {
+          "src": "6.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Ignore the pain and continue using the stairs in order to work as hard as possible.",
+          "target_node": 7
+        },
+        {
+          "label": "Address this issue to her supervisor in order to ask for a new working post located at the bottom floor.",
+          "target_node": 8
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "final": 0,
+      "progress": "43",
+      "title": "Ignoring pain",
+      "subtitle": "",
+      "content": "At the end of the day the pains were very strong, making her frustrated by her working conditions. She wondered what she should do:",
+      "support": "",
+      "images": [
+        {
+          "src": "7.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Address this issue to her supervisor in order to ask for a new working post located at the bottom floor.",
+          "target_node": 8
+        },
+        {
+          "label": "Inform her colleagues about her difficulties and ask them to help her.",
+          "target_node": 9
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "final": 0,
+      "progress": "43",
+      "title": "Discussing the issue with the supervisor",
+      "subtitle": "",
+      "content": "Her supervisor agreed to change her job position, enabling her to work at a post which will not require many movements during the day. For more advice, click on Supporting Information.",
+      "support": "Depending on how severe your condition and disability are, there may be obvious symptoms of your rheumatic disease that will make it unlikely to remain hidden from others. In this case, you should inform your potential employer about your situation in the context of what you are able to do in your job. This gives you the opportunity to discuss how you can manage your work and your situation, for example by working on flexible hours or by possibly adjusting the workplace where you are.",
+      "images": [
+        {
+          "src": "8.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Continue",
+          "target_node": 10
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "final": 0,
+      "progress": "43",
+      "title": "Discussing the issue with colleagues",
+      "subtitle": "",
+      "content": "Her colleagues suggested her to address this issue to her supervisor.",
+      "support": "",
+      "images": [
+        {
+          "src": "9.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Address this issue to her supervisor in order to ask for a new working post located at the bottom floor.",
+          "target_node": 8
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "final": 0,
+      "progress": 57,
+      "title": "Variation of Pain",
+      "subtitle": "",
+      "content": "Few months later, Margarita experienced intense pain in her joints with no apparent variation throughout the day. She wanted to find a relief, even temporarily, and chose to:",
+      "support": "",
+      "images": [
+        {
+          "src": "10.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Take painkillers and anti-inflammatory drugs and rest. ",
+          "target_node": 11
+        },
+        {
+          "label": "Start exercising (eg swimming in thermal baths) or physiotherapy.",
+          "target_node": 12
+        },
+        {
+          "label": "Consult her doctor about her medication.",
+          "target_node": 13
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "final": 0,
+      "progress": "57",
+      "title": "Painkillers and anti-inflammatory drugs",
+      "subtitle": "",
+      "content": "She noticed that the pain did not have the same intensity at all times throughout the day. However, she informed her doctor that she took these medicines. For more advice, click on Supporting Information.",
+      "support": "A common complaint reported by patients is the uninterrupted, continuous pain during the day. In fact, this pain in almost all cases is not lasting, but with breaks, as if it comes and goes. The awareness of the true nature of the pain and its duration helps to demystify it, thereby relieving the patients emotionally and physically, as the emotional state of a person affects the way in which he experiences pain caused by physical causes.",
+      "images": [
+        {
+          "src": "11.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Continue",
+          "target_node": 14
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "final": 0,
+      "progress": "57",
+      "title": "Physical activity and exercise",
+      "subtitle": "",
+      "content": "Physical activity reduced significantly her pain. She noticed that the pain did not have the same intensity at all times throughout the day. For more advice, click on Supporting Information.",
+      "support": "A common complaint reported by patients is the uninterrupted, continuous pain during the day. In fact, this pain in almost all cases is not lasting, but with breaks, as if it comes and goes. The awareness of the true nature of the pain and its duration helps to demystify it, thereby relieving the patients emotionally and physically, as the emotional state of a person affects the way in which he experiences pain caused by physical causes.",
+      "images": [
+        {
+          "src": "12.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Continue",
+          "target_node": 14
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "final": 0,
+      "progress": "57",
+      "title": "Discussion with doctor",
+      "subtitle": "",
+      "content": " The doctor informed Margarita that for the time being he does not recommend a change in her pharmaceutical treatment. He advised her to find other ways to relieve her pain. She decided to:",
+      "support": "",
+      "images": [
+        {
+          "src": "13.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Take painkillers and anti-inflammatory drugs.",
+          "target_node": 11
+        },
+        {
+          "label": "Start exercising (eg swimming in thermal baths) or physiotherapy.",
+          "target_node": 12
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "final": 0,
+      "progress": 72,
+      "title": "Pain Management",
+      "subtitle": "",
+      "content": "One night Margarita woke up from joint pain, her knees and her fingers were swollen. The pain was acute, making her feel intense anxiety. She began thinking about what she would do to relieve herself:",
+      "support": "",
+      "images": [
+        {
+          "src": "14.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Wake up her husband and tell him about her situation,so that he can drive her to the ER department in case her condition gets worse.",
+          "target_node": 15
+        },
+        {
+          "label": "Take painkillers and anti-inflammatory drugs and wait for the pain to go away.",
+          "target_node": 16
+        },
+        {
+          "label": "Try to contact relatives or friends, asking them to comfort her.",
+          "target_node": 19
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "final": 0,
+      "progress": "72",
+      "title": "Discussion with husband",
+      "subtitle": "",
+      "content": "Her husband stayed up all night with her and this helped her calm down a bit. For more advice, click on Supporting Information.",
+      "support": "Sometimes it is difficult to ask for help. The less independent you feel, the harder it is to admit that sometimes you need someone to help you in a difficult time. It is not easy to admit to ourselves that we can not do things as easily as we could before. Communication with your closest people is especially important in difficult times, especially with people who are well aware of your health condition, and preferably people who live with you (partner, children, other family members). For your personalized support, you can get in touch with psychologists specialized in chronic pain, anonymously and free of charge, by calling the Psychological Support Line of the Hellenic League Against Rheumatism (EL.E.AN.A): 210 8237302, available Monday to Friday 10:00-16:00 or via email at helpline@arthritis.org.gr",
+      "images": [
+        {
+          "src": "15.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Continue",
+          "target_node": 21
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "final": 0,
+      "progress": "72",
+      "title": "Painkillers and anti-inflammatory drugs",
+      "subtitle": "",
+      "content": "The pain was slightly reduced, but she could not sleep. Her anxiety did not let her calm down. She decided to:",
+      "support": "",
+      "images": [
+        {
+          "src": "16.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Wake up her husband and tell him about her situation,so that he can drive her to the ER department in case her condition gets worse.",
+          "target_node": 15
+        },
+        {
+          "label": "Search on the internet for ways to relax and calm down.",
+          "target_node": 17
+        },
+        {
+          "label": "Take a tranquilizer (sleep pill) to help her sleep.",
+          "target_node": 18
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "final": 0,
+      "progress": "72",
+      "title": "Infοrmation on the Internet",
+      "subtitle": "",
+      "content": "She found too many unclear suggestions, controversial with each other, all of which further confused her and made her more anxious. She decided to:",
+      "support": "",
+      "images": [
+        {
+          "src": "17.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Wake up her husband and tell him about her situation,so that he can drive her to the ER department in case her condition gets worse.",
+          "target_node": 15
+        },
+        {
+          "label": "Look the next day for a mental health professional to get assistance and advice on how to deal with this kind of situations.",
+          "target_node": 20
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "final": 0,
+      "progress": "72",
+      "title": "Taking sleep pills",
+      "subtitle": "",
+      "content": "The following day, she informed her doctor about the medications she received and he explained to her that she should definitely consult a specialist (eg a psychiatrist) before taking a tranquilizer. He then referred her to a mental health professional. For more advice, click on Supporting Information.",
+      "support": "Sometimes it is difficult to ask for help. The less independent you feel, the harder it is to admit that sometimes you need someone to help you in a difficult time. It is not easy to admit to ourselves that we can not do things as easily as we could before. Communication with your closest people is especially important in difficult times, especially with people who are well aware of your health condition, and preferably people who live with you (partner, children, other family members). For your personalized support, you can get in touch with psychologists specialized in chronic pain, anonymously and free of charge, by calling the Psychological Support Line of the Hellenic League Against Rheumatism (EL.E.AN.A): 210 8237302, available Monday to Friday 10:00-16:00 or via email at helpline@arthritis.org.gr",
+      "images": [
+        {
+          "src": "18.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Continue",
+          "target_node": 21
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "final": 0,
+      "progress": "72",
+      "title": "Communication with a friend",
+      "subtitle": "",
+      "content": "She contacted a friend of hers who could not calm her down, leaving her with a feeling that her friend could not understand what she was going through. She felt angry and lonely and decided to:",
+      "support": "",
+      "images": [
+        {
+          "src": "19.png"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Wake up her husband and tell him about her situation,so that he can drive her to the ER department in case her condition gets worse.",
+          "target_node": 15
+        },
+        {
+          "label": "Look the next day for a mental health professional to get assistance and advice on how to deal with this kind of situations.",
+          "target_node": 20
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "final": 0,
+      "progress": "72",
+      "title": "Search for a mental health professional",
+      "subtitle": "",
+      "content": "The next day, she informed her doctor about the incident and he referred her to a mental health professional. For more advice, click on Supporting Information.",
+      "support": "Sometimes it is difficult to ask for help. The less independent you feel, the harder it is to admit that sometimes you need someone to help you in a difficult time. It is not easy to admit to ourselves that we can not do things as easily as we could before. Communication with your closest people is especially important in difficult times, especially with people who are well aware of your health condition, and preferably people who live with you (partner, children, other family members). For your personalized support, you can get in touch with psychologists specialized in chronic pain, anonymously and free of charge, by calling the Psychological Support Line of the Hellenic League Against Rheumatism (EL.E.AN.A): 210 8237302, available Monday to Friday 10:00-16:00 or via email at helpline@arthritis.org.gr",
+      "images": [
+        {
+          "src": "20.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Continue",
+          "target_node": 21
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "final": 0,
+      "progress": 86,
+      "title": "Physical symptoms of Anxiety and Stress",
+      "subtitle": "",
+      "content": "A time in Margarita's life came, where due to financial difficulties and important changes at her work, she felt very stressed and her relationship with her husband went through some tension. At the same time, the pain in her joints was quite intense. She decided to:",
+      "support": "",
+      "images": [
+        {
+          "src": "21.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Make an appointment with her doctor to talk about potential solutions to the pain.",
+          "target_node": 22
+        },
+        {
+          "label": "Start taking sleep pills so that she does not feel so anxious, and therefore reduce the pain.",
+          "target_node": 24
+        },
+        {
+          "label": "Consult a mental health professional to discuss her problems.",
+          "target_node": 23
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "final": 0,
+      "progress": "86",
+      "title": "Appointment with doctor",
+      "subtitle": "",
+      "content": "Her doctor told her that it is better to continue with the same pharmaceutical treatment. The doctor stressed, though, how crucial would be for her to find a way to reduce her anxiety, as it greatly affects the intensity of the pain. She decided to follow her doctor's advice and decided to:",
+      "support": "",
+      "images": [
+        {
+          "src": "22.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Look the next day for a mental health professional to get assistance and advice on how to deal with her anxiety.",
+          "target_node": 23
+        },
+        {
+          "label": "Start taking sedatives to reduce her anxiety.",
+          "target_node": 24
+        },
+        {
+          "label": "Discuss with her husband the possible causes of her anxiety and also open up and talk about the current problems of their relationship.",
+          "target_node": 25
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "final": 0,
+      "progress": "86",
+      "title": "Search for a mental health professional",
+      "subtitle": "",
+      "content": "The collaboration with the mental health expert helped Margarita to reduce her anxiety and improve her relationship with her husband. For more advice, click on Supporting Information.",
+      "support": "Quite often, the pain in a chronic illness, such as rheumatoid arthritis, is actually a physical expression of the negative emotions we feel in some periods of our lives and our overall mental state. The most common psychosocial problems of RA and other rheumatic diseases are depression and anxiety, uncertainty and loss of control over the illness, altered body image and reduced physical fitness, decreased self-esteem and self-confidence, fear of being physically dependent or/with reduced mobility, the loss of independence and security in professional careers and personal relationships, an increase in stress associated with social changes and mobility constraints. For your personalized support, you can get in touch with psychologists specialized in chronic pain, anonymously and free of charge, by calling the Psychological Support Line of the Hellenic League Against Rheumatism (EL.E.AN.A): 210 8237302, available Monday to Friday 10:00-16:00 or via email at helpline@arthritis.org.gr",
+      "images": [
+        {
+          "src": "23.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Continue",
+          "target_node": 26
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "final": 0,
+      "progress": "86",
+      "title": "Taking sedatives",
+      "subtitle": "",
+      "content": "Margarita informed her doctor about her actions, who in turn explained that she should consult a specialist before taking such medications (eg a psychiatrist). She decided to follow his instructions. For more advice, click on Supporting Information.",
+      "support": "Quite often, the pain in a chronic illness, such as rheumatoid arthritis, is actually a physical expression of the negative emotions we feel in some periods of our lives and our overall mental state. The most common psychosocial problems of RA and other rheumatic diseases are depression and anxiety, uncertainty and loss of control over the illness, altered body image and reduced physical fitness, decreased self-esteem and self-confidence, fear of being physically dependent or/with reduced mobility, the loss of independence and security in professional careers and personal relationships, an increase in stress associated with social changes and mobility constraints. For your personalized support, you can get in touch with psychologists specialized in chronic pain, anonymously and free of charge, by calling the Psychological Support Line of the Hellenic League Against Rheumatism (EL.E.AN.A): 210 8237302, available Monday to Friday 10:00-16:00 or via email at helpline@arthritis.org.gr",
+      "images": [
+        {
+          "src": "24.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Continue",
+          "target_node": 26
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "final": 0,
+      "progress": "86",
+      "title": "Discussion with husband",
+      "subtitle": "",
+      "content": "Their conversation helped Margarita to improve her relationship with her husband. She realized that the pain in her body was greatly affected by her mood. For more advice, click on Supporting Information.",
+      "support": "Quite often, the pain in a chronic illness, such as rheumatoid arthritis, is actually a physical expression of the negative emotions we feel in some periods of our lives and our overall mental state. The most common psychosocial problems of RA and other rheumatic diseases are depression and anxiety, uncertainty and loss of control over the illness, altered body image and reduced physical fitness, decreased self-esteem and self-confidence, fear of being physically dependent or/with reduced mobility, the loss of independence and security in professional careers and personal relationships, an increase in stress associated with social changes and mobility constraints.For your personalized support, you can get in touch with psychologists specialized in chronic pain, anonymously and free of charge, by calling the Psychological Support Line of the Hellenic League Against Rheumatism (EL.E.AN.A): 210 8237302, available Monday to Friday 10:00-16:00 or via email at helpline@arthritis.org.gr",
+      "images": [
+        {
+          "src": "25.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Continue",
+          "target_node": 26
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "final": 1,
+      "progress": 100,
+      "title": "Congratulations!!!!",
+      "subtitle": "Ending!",
+      "content": "Margarita has been feeling much better lately, the pain has faded and her mood has improved. Through the difficulties she faced, she has managed to strengthen her relationships with her closest people, improve her working conditions and learn how to manage the pain, but also the feelings it can inflict on her. Margarita now knows how important it is to discuss her concerns with the right professionals and at the same time share her difficulties with her own people.",
+      "support": "",
+      "images": [
+        {
+          "src": "26.jpg"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Click here to play again from the beginning",
+          "target_node": 1
+        }
+      ]
+    }
+  ]
+}

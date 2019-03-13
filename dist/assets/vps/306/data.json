@@ -1,0 +1,532 @@
+{
+  "nodes": [
+    {
+      "buttons": [
+        {
+          "target_node": 2,
+          "label": "1. Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "1.jpg"
+        }
+      ],
+      "support": "Paracetamol, NSAIDs (several types including naproxen and diclofenac. Nonsteroidal anti-inflammatory drugs (NSAIDs) are a drug class that reduce pain, decrease fever, prevent blood clots and, in higher doses, decrease inflammation. Side effects depend on the specific drug, but largely include an increased risk of gastrointestinal ulcers and bleeds, heart attack and kidney disease. The most prominent NSAIDs are aspirin, ibuprofen and naproxen, all available over the counter in most countries. Paracetamol (acetaminophen) is generally not considered an NSAID because it has only little anti-inflammatory activity. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5423546",
+      "content": "James has been suffering from chronic lower back pain for the last 5 years. He is almost in constant pain which over time has slowly deteriorated. The pain is localized and does not radiate to his leg. Scanning techniques including MRI have not revealed any specific pathology and his attending orthopedic has told him that his condition cannot be treated with surgery. James has also been treated by a physiotherapist and has been prescribed several anti-inflammatory medications (see support info) by his general practitioner over the years. Due to the complexity in dealing with James' chronic pain he and his GP decided that he should be referred to a pain clinic.",
+      "subtitle": "",
+      "title": " James is suffering from chronic pain",
+      "progress": 0,
+      "final": 0,
+      "id": 1
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 6,
+          "label": "1. Ignore the specialist's advice and carry on with his old medication."
+        },
+        {
+          "target_node": 7,
+          "label": "2. Follow his specialist's advice and try out the new medication."
+        },
+        {
+          "target_node": 8,
+          "label": "3. Stop taking all medication."
+        }
+      ],
+      "images": [
+        {
+          "src": "2.jpg"
+        }
+      ],
+      "support": "Tramadol is an opioid pain medication used to treat moderate to moderately severe pain. When taken by mouth in an immediate-release formulation, the onset of pain relief usually begins within an hour. Common side effects include constipation, itchiness, and nausea. https://www.drugs.com/monograph/tramadol-hydrochloride.html developed by The American Society of Health-System Pharmacists.",
+      "content": "James visited the pain clinic where a specialized physician reviewed his medical history and prescribed for him some new medication consisting of Tramadol and a physical training program. James, however, is reluctant to try out new medication due to the fact that nothing has really helped him over the years cope with the pain leaving him in a  poor physical, psychological and emotional state. When he returned home, he thought about it and decided to:",
+      "subtitle": "",
+      "title": "Visit to the pain clinic",
+      "progress": 20,
+      "final": 0,
+      "id": 2
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 10,
+          "label": "1. 1. Ignore his pain and continue his vacation."
+        },
+        {
+          "target_node": 11,
+          "label": "2. Try to get some rest."
+        },
+        {
+          "target_node": 24,
+          "label": "3. Try to self manage his pain."
+        }
+      ],
+      "images": [
+        {
+          "src": "3.jpg"
+        }
+      ],
+      "support": "",
+      "content": "Three months later, James is feeling quite confident about managing his pain. He decided to make a trip overseas to Los Angeles, something that has been a dream of his for the last ten years. Unfortunately one week into his trip James is suffering from a severe increase in the amount of pain he is experiencing. Due to being abroad he is unable to contact his attending doctor. He thought about it and decided to:",
+      "subtitle": "",
+      "title": "Trip abroad",
+      "progress": 40,
+      "final": 0,
+      "id": 3
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 14,
+          "label": "1. Talk about it with a friend that was suffering from chronic pain."
+        },
+        {
+          "target_node": 15,
+          "label": "2. Talk about it with his attending specialist on their next meeting."
+        },
+        {
+          "target_node": 16,
+          "label": "3. Seek out help from a mental health professional."
+        }
+      ],
+      "images": [
+        {
+          "src": "4.jpg"
+        }
+      ],
+      "support": "",
+      "content": "James was forced to cancel his trip and return home devastated. His long awaited dream trip did not go as he was hoping and he was still in a great amount of pain. More unbearable than the physical pain was the psychological burden that he wouldn't be able to do more than the basic everyday things in his life and that no one could really understand what he was going through. Giving it a great deal of thought, he decided to:",
+      "subtitle": "",
+      "title": "Returning home",
+      "progress": 60,
+      "final": 0,
+      "id": 4
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 21,
+          "label": "1. Stop taking his medication and try out the alternative treatment."
+        },
+        {
+          "target_node": 20,
+          "label": "2.  Ignore the recommendation and carry on with his usual medication."
+        },
+        {
+          "target_node": 18,
+          "label": "3.  Try to research on his own about the alternative treatment on the internet."
+        }
+      ],
+      "images": [
+        {
+          "src": "5.jpg"
+        }
+      ],
+      "support": "",
+      "content": "James heard about an online patients association called RELIEF solution and decided to give it a try. While talking with another patient, the latter recommended to James  to stop his pharmaceutical treatment and try out an alternative medicine that has worked out very well for him. James thought about it and decided to:",
+      "subtitle": "",
+      "title": "Interacting with other people suffering from chronic pain",
+      "progress": 80,
+      "final": 0,
+      "id": 5
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 8,
+          "label": "1. Call his GP and ask him what he should do."
+        },
+        {
+          "target_node": 9,
+          "label": "2.  Take some painkillers and go on with his daily schedule."
+        }
+      ],
+      "images": [
+        {
+          "src": "6.jpg"
+        }
+      ],
+      "support": "Certain exercises or chores as well as general body posture can have significant effects on chronic pain. Depending on their ailment, patients should be advised to avoid engaging in certain types of physical labor or modifying the way they are engaging in it as well as altering their daily habits to help them manage the pain better. Below is a link to an article with general tips on how to best accommodate those changes https://www.physio-pedia.com/Back_School developed by Physiopedia",
+      "content": "Four days later, James decided to do some chores in his backyard. The next morning his back pain was more intense than usual and he was having difficulty getting out of bed. He decided to:",
+      "subtitle": "",
+      "title": "The pain is still present",
+      "progress": 25,
+      "final": 0,
+      "id": 6
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 3,
+          "label": "1. Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "7.jpg"
+        }
+      ],
+      "support": "Certain exercises or chores as well as general body posture can have significant effects on chronic pain. Depending on their ailment, patients should be advised to avoid engaging in certain types of physical labor or modifying the way they are engaging in it as well as altering their daily habits to help them manage the pain better. Below is a link to an article with general tips on how to best accommodate those changes https://www.physio-pedia.com/Back_School developed by Physiopedia",
+      "content": "After following his new medical schedule for a couple of months, James started feeling better. The pain was present from time to time usually when he was not careful and overexerted himself physically but most days he was pain free. For the first time since he could recall, he was actually able to do things he had not done for years and believed he could make plans for the future.",
+      "subtitle": "New treatment",
+      "title": "",
+      "progress": 35,
+      "final": 0,
+      "id": 7
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 9,
+          "label": "1. Call his GP and ask him what he should do."
+        },
+        {
+          "target_node": 7,
+          "label": "2. Try out his new medication."
+        }
+      ],
+      "images": [
+        {
+          "src": "8.jpg"
+        }
+      ],
+      "support": "",
+      "content": "A week later, James woke up in excruciating pain. He stayed in bed all day because he could barely move. In the afternoon he decided to:",
+      "subtitle": "",
+      "title": "The pain deteriorates",
+      "progress": 25,
+      "final": 0,
+      "id": 8
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 7,
+          "label": "1. Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "9.jpg"
+        }
+      ],
+      "support": "",
+      "content": "James's GP advised him to try out the medication the specialist at the pain clinic had prescribed for him. He also explained to him politely that in his professional opinion he felt they had exhausted the more common solutions to his chronic pain problem. He recommended to James to really give this new treatment a chance. James decided to follow his GP’s advice.",
+      "subtitle": "",
+      "title": "Phone call to his GP",
+      "progress": 30,
+      "final": 0,
+      "id": 9
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 13,
+          "label": "Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "10.jpg"
+        }
+      ],
+      "support": "",
+      "content": "James tried to ignore his pain and decided to go site-seeing. Waking up the next day he realized that overexerting himself was probably the wrong idea since he was unable to get out of bed. Alarmed he decided to call the hotel reception and ask for a doctor to visit him at his hotel room.",
+      "subtitle": "",
+      "title": "Site-seeing",
+      "progress": 45,
+      "final": 0,
+      "id": 10
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 10,
+          "label": "1. Ignore his pain and continue his vacation."
+        },
+        {
+          "target_node": 24,
+          "label": "2. Try to self manage his pain."
+        }
+      ],
+      "images": [
+        {
+          "src": "11.jpg"
+        }
+      ],
+      "support": "There are multiple exercise programs for patients with all kind of issues that can be followed either under  professional supervision or help or even at home. However, since most programs are designed specifically for certain ailments if patients are interested in following one they should do so after contacting a medicare professional that can guide them to the one that can have substantial benefit for them. The right exercise can help patients both physically as well as mentally while an inappropriate one can deteriorate their existing problems. Overall, there are some general guidelines for exercise programs that you can read about in https://www.emedicinehealth.com/walking_for_fitness/article_em.htm#getting_started developed by emedicinehealth",
+      "content": "James decided to take the day off from site-seeing and get some rest. In the afternoon he exercised for 30 minutes using his home training program, had dinner in his hotel room and then got an early night's sleep. Waking up the next morning he realized he was feeling better but not well enough to continue on his trip. He decided to:",
+      "subtitle": "",
+      "title": "A day's rest",
+      "progress": 45,
+      "final": 0,
+      "id": 11
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 4,
+          "label": "1. Continue."
+        }
+      ],
+      "images": [
+        {
+          "src": "12.jpg"
+        }
+      ],
+      "support": "Most insurance packages do not cover medical insurance when you are travelling abroad. Even if it does, in most cases, you'll get some coverage for care needed to treat an emergency, but you'll have to pay out-of-your-pocket and then submit the necessary paperwork for reimbursement after you return home. However,  patients tend to define a medical emergency in a different way than insurers. Travel insurance may include depending on the package: trip cancellation, trip interruption, emergency medical coverage and evacuation, 24/7 emergency assistance and baggage protection. If you need help finding a local doctor or hospital while traveling contact your local embassy, your insurance company or visit https://www.iamat.org/ for a list of vetted English-speaking doctors and clinics worldwide. Finally, before your trip, visit the Centers for Disease Control and Prevention website to learn about the health risks and health care system in the country you will be traveling in, including recommended vaccinations.",
+      "content": "James contacted his insurance company's branch in the USA where he was informed that there were a series of limitations in his insurance plan (see support info). Since he was unable to pay for his medical expenses abroad, James decided to cancel his trip and return home earlier than expected.",
+      "subtitle": "",
+      "title": "Phone call to the insurance company",
+      "progress": 55,
+      "final": 0,
+      "id": 12
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 12,
+          "label": "Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "13.jpg"
+        }
+      ],
+      "support": "",
+      "content": "A physician visited him at his hotel room and after conducting a physical examination told him that he should get some rest and gave him a combined anti-inflammatory and muscle relaxant injection to help him deal with the pain. James was charged an extravagant fee for the medical services by the hotel and was told that he should contact his insurance company for further clarification.",
+      "subtitle": "",
+      "title": "Visit from a doctor at his room",
+      "progress": 50,
+      "final": 0,
+      "id": 13
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 17,
+          "label": "1. Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "14.jpg"
+        }
+      ],
+      "support": "",
+      "content": "His friend recommended he try out the support group he was attending. He told James that he felt that the procedure had helped him in various aspects of his everyday life. James decided to join his friend in his next meeting at the pain support group.",
+      "subtitle": "",
+      "title": "Talking to a friend",
+      "progress": 67,
+      "final": 0,
+      "id": 14
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 17,
+          "label": "Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "15.jpg"
+        }
+      ],
+      "support": "",
+      "content": "His attending pain specialist recommended to him to pay a visit to one of the support groups for patients with chronic pain. He thought that he would be able to express his frustration to people that had similar issues in their everyday lives. James decided to try out his doctor’s advice.",
+      "subtitle": "",
+      "title": "Talking to his specialist",
+      "progress": 67,
+      "final": 0,
+      "id": 15
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 5,
+          "label": "1. Continue."
+        }
+      ],
+      "images": [
+        {
+          "src": "16.jpg"
+        }
+      ],
+      "support": "",
+      "content": "The collaboration with the mental health expert helped James to reduce his frustration and  improve his relationships with the people in his everyday life.",
+      "subtitle": "",
+      "title": "Visit to a mental health professional",
+      "progress": 74,
+      "final": 0,
+      "id": 16
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 5,
+          "label": "Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "17.jpg"
+        }
+      ],
+      "support": "In a support group, members provide each other with various types of help, usually nonprofessional and nonmaterial, for a particular shared, usually burdensome, characteristic. Members with the same issues can come together for sharing coping strategies, to feel more empowered and for a sense of community. The help may take the form of providing and evaluating relevant information, relating personal experiences, listening to and accepting others' experiences, providing sympathetic understanding and establishing social networks. Nowadays there also online support groups for various issues and the conversations are supervised by moderators where members can share relevant information regarding their common issues.",
+      "content": "James attended the support group for patients with chronic pain and he felt really relaxed among people that were facing the same problems as he did. He realized that hearing other people talk about their experiences helped him feel less lonely and socially isolated. The specialists and psychologists that were working at the support group were very helpful as well and suggested to him to try out a mobile application they were using that introduced the patients to various scenarios they might experience in their everyday lives.",
+      "subtitle": "",
+      "title": "First contact with a support group",
+      "progress": 74,
+      "final": 0,
+      "id": 17
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 20,
+          "label": "1. Ignore the recommendation and carry on with his usual medication."
+        },
+        {
+          "target_node": 19,
+          "label": "2. Call his attending specialist and ask his advice."
+        }
+      ],
+      "images": [
+        {
+          "src": "18.jpg"
+        }
+      ],
+      "support": "",
+      "content": "James tried to do some research about the alternative treatment over the internet but the information he was getting made him more confused. He was also worried about the lack of verification on the provided information. Hesitantly he decided to:",
+      "subtitle": "",
+      "title": "Researching online",
+      "progress": 87,
+      "final": 0,
+      "id": 18
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 23,
+          "label": "Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "19.jpg"
+        }
+      ],
+      "support": "Medicine non-adherence is a major problem and can be attributed to different reasons. It affects both patient and doctor as well as their relationship. If a patient is having problems with his/her medication he/she is advised to talk to his/her doctor and explain the nature of the problem so that an acceptable by both parties solution can be found. Patients are advised against stop taking or modifying the doses of their medication without contacting their attending doctor. Below is a link to an article about medicine non-adherence for medicare personnel as well as patients and their carers https://www.nice.org.uk/guidance/cg76 developed by NICE and an online course on how to deal with medicine non-adherence https://www.futurelearn.com/courses/medicines-adherence-patient-behaviour developed by FutureLearn",
+      "content": "His specialist explained to James that not all treatments work equally well for everyone and that the suggested treatment had no definitive proof that was actually effective. He continued on to tell him that calling him was the right thing to do before taking a decision and that he was willing to arrange an appointment with him to discuss alternative solutions if James was feeling that the current treatment was not working for him. James reassured, decided to follow his doctor's advice.",
+      "subtitle": "",
+      "title": "Talking to his specialist",
+      "progress": 94,
+      "final": 0,
+      "id": 19
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 23,
+          "label": "1. Continue."
+        }
+      ],
+      "images": [
+        {
+          "src": "20.jpg"
+        }
+      ],
+      "support": "Medicine non-adherence is a major problem and can be attributed to different reasons. It affects both patient and doctor as well as their relationship. If a patient is having problems with his/her medication he/she is advised to talk to his/her doctor and explain the nature of the problem so that an acceptable by both parties solution can be found. Patients are advised against stop taking or modifying the doses of their medication without contacting their attending doctor. Below is a link to an article about medicine non-adherence for medicare personnel as well as patients and their carers https://www.nice.org.uk/guidance/cg76 developed by NICE and an online course on how to deal with medicine non-adherence https://www.futurelearn.com/courses/medicines-adherence-patient-behaviour developed by FutureLearn",
+      "content": "James continued taking his current medication with little to no problem in managing his pain. However, on his next appointment with his specialist he brought up the subject of the alternative treatment the other patient had suggested. His specialist explained to James that not all treatments work equally well for everyone and that the suggested treatment had no definitive proof that was actually effective. He continued on to tell him that it was the right thing to do not to discontinue his medication.",
+      "subtitle": "",
+      "title": "Following his prescribed treatment",
+      "progress": 94,
+      "final": 0,
+      "id": 20
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 22,
+          "label": "1. Continue."
+        }
+      ],
+      "images": [
+        {
+          "src": "21.jpg"
+        }
+      ],
+      "support": "",
+      "content": "A week into the alternative treatment and while James had stopped taking his prescribed medication, he started feeling an intense pain on his back that deteriorated as the day went by and in the evening he felt exhausted and psychologically wrecked from the ordeal. When he woke up in the morning, he could barely get out of bed and decided alarmed to call his specialist and explain the situation.",
+      "subtitle": "",
+      "title": "Following the alternative treatment",
+      "progress": 87,
+      "final": 0,
+      "id": 21
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 23,
+          "label": "1. Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "22.jpg"
+        }
+      ],
+      "support": "Medicine non-adherence is a major problem and can be attributed to different reasons. It affects both patient and doctor as well as their relationship. If a patient is having problems with his/her medication he/she is advised to talk to his/her doctor and explain the nature of the problem so that an acceptable by both parties solution can be found. Patients are advised against stop taking or modifying the doses of their medication without contacting their attending doctor. Below is a link to an article about medicine non-adherence for medicare personnel as well as patients and their carers https://www.nice.org.uk/guidance/cg76 developed by NICE and an online course on how to deal with medicine non-adherence https://www.futurelearn.com/courses/medicines-adherence-patient-behaviour developed by FutureLearn",
+      "content": "His specialist paid him a visit at home and gave him a combined anti-inflammatory and muscle relaxant injection to relieve his intense pain. He went on to explain to James that not all treatments work equally well for everyone and that the suggested treatment had no definitive proof that was actually effective. He suggested that he should get back on his old medication and in the future he should not hesitate to call him if he needed advice.",
+      "subtitle": "",
+      "title": "Home visit from his specialist",
+      "progress": 94,
+      "final": 0,
+      "id": 22
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 12,
+          "label": "1. Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "24.jpg"
+        }
+      ],
+      "support": "Pain self-management is the idea that you are in control over how you deal with your pain. Research shows that some of the best ways to improve your life is to help you live with your pain instead of masking it. When you accept your pain, you change how you experience pain and begin the process of reducing it. There are many activities you can do to help manage your pain. These activities aim to support overall self-care and lower your stress levels such as exercise, breathing techniques, progressive muscle relaxation, guided imagery, mindfulness, journaling, social activities with family and friends. This procedure of course takes time to build up and does not happen over night. Below is a link to a page realted to self-management of chronice pain https://www.wwdpi.org/ChronicDisease/WhatIsChronicPain/Pages/Self-Management.aspx developed by wwdp.",
+      "content": "Since this trip had been his long awaited dream come true, James decided to give it his best to stay on it as long as possible. He decided to ty to manage his pain on his own through techniques he had been told about by his pain specialist but had never tried out (read support info). He managed to extend his trip by three more days but in the end, having overexerted himself, he decided to call his insurance company and figure out his options. ",
+      "subtitle": "",
+      "title": "Self-management of the pain",
+      "progress": 50,
+      "final": 0,
+      "id": 24
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 1,
+          "label": "1. Play from the beginning"
+        }
+      ],
+      "images": [
+        {
+          "src": "23.jpg"
+        }
+      ],
+      "support": "",
+      "content": "After learning how to manage his pain and what his physical limitations are, James is feeling more confident that he can cope with any problem that may appear due to his condition and no longer feels entrapped in it. He knows that whether he needs treatment, advice or psychological aid in the future, his friends and a group of Medicare professionals are available to provide it for him.",
+      "subtitle": "",
+      "title": "Congratulations!",
+      "progress": 100,
+      "final": 1,
+      "id": 23
+    }
+  ]
+}

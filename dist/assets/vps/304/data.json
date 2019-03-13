@@ -1,0 +1,702 @@
+{
+  "nodes": [
+    {
+      "buttons": [
+        {
+          "target_node": 2,
+          "label": "Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "1.jpg"
+        }
+      ],
+      "support": "",
+      "content": " George is suffering from ankylosing spondylitis, which causes various problems in his everyday life and many difficulties in fulfilling his obligations and work schedule. He is 52 years old, he lives alone but has many friends. He has been diagnosed at the age of 27 and since has been on therapy to manage the pain and the inflammation in his joints, but during the last month he has been suffering from intense pain at his shoulder and lower back. As a result he has been having increasing difficulty in his everyday work and activities. His doctor advised him to begin physiotherapy sessions and later some mild exercise, as well as trying to minimize his daily bodily stress. George decided to follow his doctor's advice.",
+      "subtitle": "",
+      "title": "George is suffering from ankylosing spondylitis.",
+      "progress": 0,
+      "final": 0,
+      "id": 1
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 7,
+          "label": " Ignore the pain as much as he could and carry on with his gardening."
+        },
+        {
+          "target_node": 28,
+          "label": " Take a rest and ask someone else to handle the gardening."
+        },
+        {
+          "target_node": 29,
+          "label": " Take a rest for the time being and continue with the gardening the next day."
+        }
+      ],
+      "images": [
+        {
+          "src": "2.jpg"
+        }
+      ],
+      "support": "",
+      "content": " A week after his first physiotherapy session, George had to do some gardening at home. In the afternoon the pain at his back and shoulder got very intense and he was wondering what he should do:",
+      "subtitle": "",
+      "title": "Home chores",
+      "progress": 17,
+      "final": 0,
+      "id": 2
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 8,
+          "label": " Talk about the problem with his doctor."
+        },
+        {
+          "target_node": 9,
+          "label": " Ask his work supervisor if he could cut down on his working hours."
+        },
+        {
+          "target_node": 22,
+          "label": " Ignore the pain and continue working at the same rate since he had recently been promoted and he didn't want to let his supervisor down."
+        }
+      ],
+      "images": [
+        {
+          "src": "3.jpg"
+        }
+      ],
+      "support": "",
+      "content": " Over the next months, George was promoted in the company he was working for. His work load was increased and he had to work overtime on a regular basis. Often he was experiencing intense body pain after coming home from work. He decided to:",
+      "subtitle": "",
+      "title": "Problems at work",
+      "progress": 33,
+      "final": 0,
+      "id": 3
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 10,
+          "label": " Seek out a second opinion from a couple of different reumatologists in order to try out some new medication."
+        },
+        {
+          "target_node": 11,
+          "label": " Talk to his attending reumatologist about his problem with the current medication."
+        },
+        {
+          "target_node": 12,
+          "label": " Ignore his pain and continue taking his medication as before."
+        }
+      ],
+      "images": [
+        {
+          "src": "4.jpg"
+        }
+      ],
+      "support": "",
+      "content": " George over the next months was beginning to feel that his medication was not as effective as it had been. His pain was getting worse and he was feeling his body quite rigid. He thought and decided to:",
+      "subtitle": "",
+      "title": "Relationship with his attending doctor",
+      "progress": 50,
+      "final": 0,
+      "id": 4
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 13,
+          "label": " Talk to his friends about helping him with packing his things and moving them into his new apartment."
+        },
+        {
+          "target_node": 14,
+          "label": " Pack his things alone and move them at his own pace into the new apartment."
+        },
+        {
+          "target_node": 15,
+          "label": " Talk to his friends about his current needs so they could offer advice or possibly help him out."
+        }
+      ],
+      "images": [
+        {
+          "src": "5.jpg"
+        }
+      ],
+      "support": "",
+      "content": " George was feeling a lot better and the pain had subsided significantly. However he had to move out of his old apartment and realized that it was likely he would need some help. He decided to:",
+      "subtitle": "",
+      "title": "Significant others",
+      "progress": 67,
+      "final": 0,
+      "id": 5
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 16,
+          "label": " Talk about the pain with his attending doctor."
+        },
+        {
+          "target_node": 17,
+          "label": " Try to find information about pain management over the internet."
+        },
+        {
+          "target_node": 18,
+          "label": " Seek out the counsel of a mental health professional."
+        }
+      ],
+      "images": [
+        {
+          "src": "6.png"
+        }
+      ],
+      "support": "",
+      "content": " George realized that his friends and relatives were very supportive but felt that they couldn't really realize the amount of pain he was in. Occasionally he thought that none could. He decided that he should do something about it: ",
+      "subtitle": "",
+      "title": "Pain management",
+      "progress": 83,
+      "final": 0,
+      "id": 6
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 19,
+          "label": "Contact his family doctor."
+        },
+        {
+          "target_node": 20,
+          "label": "Take some painkillers and anti-inflammatory drugs till he starts feeling better."
+        }
+      ],
+      "images": [
+        {
+          "src": "7.jpg"
+        }
+      ],
+      "content": " The next day his back pain was much worse. It seemed almost impossible to get out of bed. He had to take a day off work. He thought that he shouldn't have stressed his body that much and decided to:",
+      "subtitle": "",
+      "title": "Acute deterioration of his pain",
+      "progress": 20,
+      "final": 0,
+      "id": 7
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 4,
+          "label": "Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "8.jpg"
+        }
+      ],
+      "support": "Fatigue is a common symptom of rheumatic disorders. Pain and stiffness often urge people with rheumatoid diseases to become inactive. Unfortunately, inactiveness can lead to loss of joint movement, contraction, and loss of muscle strength. Physiotherapists advise to seek help if joint pain or inadequate joint mobility becomes an obstacle in normal movement.",
+      "content": " The doctor told him that he shouldn't be tiring out himself that much and should find a way to lower his stress since it was having an effect on his pain level. George decided to follow his doctor's advice. He realized that during the last weeks he had stressed himself too much  due to his desire to perform well at his work. It was likely that the increase in pain level could be related to that. For more advice, click on Supporting Information.",
+      "subtitle": "",
+      "title": "Meeting with his doctor",
+      "progress": 44,
+      "final": 0,
+      "id": 8
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 8,
+          "label": " Talk about his problem with his attending doctor."
+        },
+        {
+          "target_node": 22,
+          "label": " Ignore his fatigue and continue working at the same pace since he had just been promoted and didn't want to let his supervisor down."
+        }
+      ],
+      "images": [
+        {
+          "src": "9.jpg"
+        }
+      ],
+      "content": " His supervisor explained to George that what he was asking was not possible due to work load. He decided to:",
+      "subtitle": "",
+      "title": "A talk with his supervisor",
+      "progress": 37,
+      "final": 0,
+      "id": 9
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 11,
+          "label": " Contact the reumatologist that was attending him from the start and talk to him about his concerns regarding his current medication."
+        },
+        {
+          "target_node": 23,
+          "label": " Stop taking his medication without consulting anyone since it didn't seem very effective anyway."
+        },
+        {
+          "target_node": 24,
+          "label": " Ignore his pain and continue taking his current medication."
+        }
+      ],
+      "images": [
+        {
+          "src": "10.jpg"
+        }
+      ],
+      "support": "",
+      "content": "One reumatologist suggested different medication while another suggested the same medication he was already on. George felt confused and decided to:",
+      "subtitle": "",
+      "title": "Appointments with different reumatologists",
+      "progress": 53,
+      "final": 0,
+      "id": 10
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 5,
+          "label": "Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "11.jpg"
+        }
+      ],
+      "support": "",
+      "content": "The doctor gave him some advice concerning his medication and explained to him the treatment plan. They decided together how to approach the treatment from now on so as to decrease the amount of pain George was in. After the modifications to his medication the amount of pain was significantly lessened.",
+      "subtitle": "",
+      "title": "Meeting with his doctor",
+      "progress": 60,
+      "final": 0,
+      "id": 11
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 11,
+          "label": "Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "12.jpg"
+        }
+      ],
+      "support": "",
+      "content": " Over the next days, George didn't get any better. He was feeling constantly tired and his back pain was always present. He decided to contact his reumatologist.",
+      "subtitle": "",
+      "title": "Pain deterioration",
+      "progress": 56,
+      "final": 0,
+      "id": 12
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 15,
+          "label": " Talk to his friends about his needs so they could provide him with advice or possibly help him out."
+        },
+        {
+          "target_node": 25,
+          "label": " Handle it all by himself since he doesn't want to feel obliged to anyone."
+        }
+      ],
+      "images": [
+        {
+          "src": "13.jpg"
+        }
+      ],
+      "support": "",
+      "content": " His friends accepted to help him with the packing but told him that they wouldn't be able to help him out with moving his things to his new apartment due to other commitments. George was a little disappointed and decided that the next time he would need help he would:",
+      "subtitle": "",
+      "title": "Talking to his friends",
+      "progress": 68,
+      "final": 0,
+      "id": 13
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 6,
+          "label": "Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "14.jpg"
+        }
+      ],
+      "support": "Sometimes it is difficult to ask for help. The less independent you feel, the harder it is to admit that sometimes you need someone to help you in a difficult time. It is not easy to admit to ourselves that we can not do things as easily as we could before. Communication with your closest people is especially important in difficult times, especially with people who are well aware of your health condition, and preferably people who live with you (partner, children, other family members). For your personalized support, you can get in touch with psychologists specialized in chronic pain, anonymously and free of charge, by calling the Psychological Support Line of the Hellenic League Against Rheumatism (EL.E.AN.A): 210 8237302, available Monday to Friday 10:00-16:00 or via email at helpline@arthritis.org.gr",
+      "content": "George was exhausted after moving into his new apartment and over the next week his shoulder and back pain became very intense. He decided that the next time he would need help, he would talk to his friends so they could offer advice or possibly help him out. For more advice, click on Supporting Information.",
+      "subtitle": "",
+      "title": "Exhaustion after moving into his new apartment",
+      "progress": 70,
+      "final": 0,
+      "id": 14
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 6,
+          "label": "Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "15.jpg"
+        }
+      ],
+      "support": "Sometimes it is difficult to ask for help. The less independent you feel, the harder it is to admit that sometimes you need someone to help you in a difficult time. It is not easy to admit to ourselves that we can not do things as easily as we could before. Communication with your closest people is especially important in difficult times, especially with people who are well aware of your health condition, and preferably people who live with you (partner, children, other family members). For your personalized support, you can get in touch with psychologists specialized in chronic pain, anonymously and free of charge, by calling the Psychological Support Line of the Hellenic League Against Rheumatism (EL.E.AN.A): 210 8237302, available Monday to Friday 10:00-16:00 or via email at helpline@arthritis.org.gr",
+      "content": "His friends were willing to help him out with the packing and helped him find a crew that would take care of the rest so he wouldn't have to carry anything. George thanked them and followed their advice on the matter. For more advice, click on Supporting Information.",
+      "subtitle": "",
+      "title": "Help from his friends",
+      "progress": 75,
+      "final": 0,
+      "id": 15
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 26,
+          "label": " Follow his doctor's advice and seek out an organization or community of patients with rheumatic diseases."
+        },
+        {
+          "target_node": 27,
+          "label": " Ignore his doctor's advice and seek out information on pain management over the internet."
+        }
+      ],
+      "images": [
+        {
+          "src": "16.jpg"
+        }
+      ],
+      "support": "",
+      "content": " His doctor explained to him that there was not much he could help him out with except the medication. He suggested to him to seek out an organization or community of patients. George decided to:",
+      "subtitle": "",
+      "title": "Advice from his doctor",
+      "progress": 88,
+      "final": 0,
+      "id": 16
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 26,
+          "label": " Seeking an organization or community of patients."
+        },
+        {
+          "target_node": 18,
+          "label": " Seeking out the counsel of a mental health professional."
+        }
+      ],
+      "images": [
+        {
+          "src": "17.jpg"
+        }
+      ],
+      "support": "",
+      "content": " He found various information on pain management over the internet some of which were actually helpful. However, he felt the need to share his problems with other people. He thought of:",
+      "subtitle": "",
+      "title": "Seeking information over the internet",
+      "progress": 88,
+      "final": 0,
+      "id": 17
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 31,
+          "label": "Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "18.jpg"
+        }
+      ],
+      "support": "Sometimes it is difficult to ask for help. The less independent you feel, the harder it is to admit that sometimes you need someone to help you in a difficult time. It is not easy to admit to ourselves that we can not do things as easily as we could before. Communication with your closest people is especially important in difficult times, especially with people who are well aware of your health condition, and preferably people who live with you (partner, children, other family members). For your personalized support, you can get in touch with psychologists specialized in chronic pain, anonymously and free of charge, by calling the Psychological Support Line of the Hellenic League Against Rheumatism (EL.E.AN.A): 210 8237302, available Monday to Friday 10:00-16:00 or via email at helpline@arthritis.org.gr",
+      "content": "Through the course of this co-operation he discovered the importance of sharing his difficulties with others and building long lasting relationships of mutual trust. For more advice, click on Supporting Information.",
+      "subtitle": "",
+      "title": "Meeting with a mental health professional",
+      "progress": 92,
+      "final": 0,
+      "id": 18
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 3,
+          "label": "Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "19.jpg"
+        }
+      ],
+      "support": "Fatigue is a common symptom of rheumatic disorders. Pain and stiffness often urge people with rheumatoid diseases to become inactive. Unfortunately, inactiveness can lead to loss of joint movement, contraction, and loss of muscle strength. Physiotherapists advise to seek help if joint pain or inadequate joint mobility becomes an obstacle in normal movement.",
+      "content": "His doctor visited him at home and advised him to avoid strenuous activities. He prescribed one week off work to help him recover. For more advice, click on Supporting Information.",
+      "subtitle": "",
+      "title": "Home appointment with his doctor",
+      "progress": 28,
+      "final": 0,
+      "id": 19
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 30,
+          "label": " Contacting his family doctor."
+        },
+        {
+          "target_node": 21,
+          "label": " Contacting his physiotherapist."
+        }
+      ],
+      "images": [
+        {
+          "src": "20.jpg"
+        }
+      ],
+      "support": "",
+      "content": " Drugs helped him a little but he had to take a day off from work. He thought of:",
+      "subtitle": "",
+      "title": "Painkillers and anti-inflammatory drugs",
+      "progress": 22,
+      "final": 0,
+      "id": 20
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 3,
+          "label": "Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "21.jpg"
+        }
+      ],
+      "support": "Fatigue is a common symptom of rheumatic disorders. Pain and stiffness often urge people with rheumatoid diseases to become inactive. Unfortunately, inactiveness can lead to loss of joint movement, contraction, and loss of muscle strength. Physiotherapists advise to seek help if joint pain or inadequate joint mobility becomes an obstacle in normal movement.",
+      "content": " His physiotherapist advised George to avoid strenuous activities. He then went on to show him some exercises that could help his muscles relax and enable better joint movement. By following this course he started feeling better over the next few days. For more advice, click on Supporting Information.",
+      "subtitle": "",
+      "title": "Talking to his physiotherapist",
+      "progress": 28,
+      "final": 0,
+      "id": 21
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 4,
+          "label": "Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "22.jpg"
+        }
+      ],
+      "support": "Depending on how severe your condition and disability are, there may be obvious symptoms of your rheumatic disease that will make it unlikely to remain hidden from others. In this case, you should inform your potential employer about your situation in the context of what you are able to do in your job. This gives you the opportunity to discuss how you can manage your work and your situation, for example by working on flexible hours or by possibly adjusting the workplace where you are.",
+      "content": "After a short time, the workload was significantly less and he had more time to adjust to the demands of his new position. At the same time his pain level was decreased. He thought that he was hard pressed during that time to perform to a standard. The increase in pain could be probably related to that. For more advice, click on Supporting Information.",
+      "subtitle": "",
+      "title": "Less workload",
+      "progress": 42,
+      "final": 0,
+      "id": 22
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 11,
+          "label": "Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "23.jpg"
+        }
+      ],
+      "support": "",
+      "content": " The pain came back very intense and George realized that stopping his medication without his doctor's consent could be very dangerous. He decided to have an appointment with his attending reumatologist and talk to him about his concerns regarding his current medication.",
+      "subtitle": "",
+      "title": "Acute pain deterioration",
+      "progress": 55,
+      "final": 0,
+      "id": 23
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 11,
+          "label": "Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "24.jpg"
+        }
+      ],
+      "support": "",
+      "content": " Over the next days George didn't get any better. He was constantly feeling tired and his back pain was always present. He decided to make an appointment with his reumatologist.",
+      "subtitle": "",
+      "title": "Pain deterioration",
+      "progress": 55,
+      "final": 0,
+      "id": 24
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 6,
+          "label": "Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "25.jpg"
+        }
+      ],
+      "support": "Sometimes it is difficult to ask for help. The less independent you feel, the harder it is to admit that sometimes you need someone to help you in a difficult time. It is not easy to admit to ourselves that we can not do things as easily as we could before. Communication with your closest people is especially important in difficult times, especially with people who are well aware of your health condition, and preferably people who live with you (partner, children, other family members). For your personalized support, you can get in touch with psychologists specialized in chronic pain, anonymously and free of charge, by calling the Psychological Support Line of the Hellenic League Against Rheumatism (EL.E.AN.A): 210 8237302, available Monday to Friday 10:00-16:00 or via email at helpline@arthritis.org.gr",
+      "content": " George realized the next time he needed help moving his furniture around that it would be tough for him to handle everything alone since any strenuous activity caused him intense pain. He decided to share his need with his friends the next time so they could advise him or possibly help him out. For more advice, click on Supporting Information.",
+      "subtitle": "",
+      "title": "Realizing that he needed help from the people close to him",
+      "progress": 73,
+      "final": 0,
+      "id": 25
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 31,
+          "label": "Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "26.jpg"
+        }
+      ],
+      "support": "Sometimes it is difficult to ask for help. The less independent you feel, the harder it is to admit that sometimes you need someone to help you in a difficult time. It is not easy to admit to ourselves that we can not do things as easily as we could before. Communication with your closest people is especially important in difficult times, especially with people who are well aware of your health condition, and preferably people who live with you (partner, children, other family members). For your personalized support, you can get in touch with psychologists specialized in chronic pain, anonymously and free of charge, by calling the Psychological Support Line of the Hellenic League Against Rheumatism (EL.E.AN.A): 210 8237302, available Monday to Friday 10:00-16:00 or via email at helpline@arthritis.org.gr",
+      "content": " George found a community of patients with rheumatic diseases where he met people with similar difficulties in their everyday lives. He was offered advice by experienced members and felt after a long time that he was being totally understood and felt. He went on to form some very strong relationships with some members of the community. For more advice, click on Supporting Information.",
+      "subtitle": "",
+      "title": "First contact with a community of patients",
+      "progress": 92,
+      "final": 0,
+      "id": 26
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 26,
+          "label": " Following his doctor's advice and seeking an organization or community of patients."
+        },
+        {
+          "target_node": 18,
+          "label": " Seeking out the counsel of a mental health professional."
+        }
+      ],
+      "images": [
+        {
+          "src": "27.jpg"
+        }
+      ],
+      "support": "",
+      "content": "He found various information on pain management over the internet some of which were actually helpful. However, he felt the need to share his problems with other people. He thought of:",
+      "subtitle": "",
+      "title": "Seeking information over the internet",
+      "progress": 88,
+      "final": 0,
+      "id": 27
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 3,
+          "label": "Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "28.jpg"
+        }
+      ],
+      "support": "Fatigue is a common symptom of rheumatic disorders. Pain and stiffness often urge people with rheumatoid diseases to become inactive. Unfortunately, inactiveness can lead to loss of joint movement, contraction, and loss of muscle strength. Physiotherapists advise to seek help if joint pain or inadequate joint mobility becomes an obstacle in normal movement.",
+      "content": " He asked his neighbor to help him out with his gardening. He realized that he shouldn't overstress his body. For more advice, click on Supporting Information.",
+      "subtitle": "",
+      "title": "Asking the people around him for help",
+      "progress": 25,
+      "final": 0,
+      "id": 28
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 30,
+          "label": " Contacting his family doctor."
+        },
+        {
+          "target_node": 20,
+          "label": " Take some painkillers and anti-inflammatory drugs until he starts feeling better."
+        }
+      ],
+      "images": [
+        {
+          "src": "29.jpg"
+        }
+      ],
+      "support": "",
+      "content": " The next morning, the pain on his back was more intense. He thought of:",
+      "subtitle": "",
+      "title": "Pain deterioration",
+      "progress": 20,
+      "final": 0,
+      "id": 29
+    },
+    {
+      "buttons": [
+        {
+          "target_node": 3,
+          "label": "Continue"
+        }
+      ],
+      "images": [
+        {
+          "src": "30.jpg"
+        }
+      ],
+      "support": "Fatigue is a common symptom of rheumatic disorders. Pain and stiffness often urge people with rheumatoid diseases to become inactive. Unfortunately, inactiveness can lead to loss of joint movement, contraction, and loss of muscle strength. Physiotherapists advise to seek help if joint pain or inadequate joint mobility becomes an obstacle in normal movement.",
+      "content": " His doctor visited him at home and advised him to avoid strenuous activities. For more advice, click on Supporting Information.",
+      "subtitle": "",
+      "title": "Home appointment with his doctor",
+      "progress": 28,
+      "final": 0,
+      "id": 30
+    },
+    {
+      "buttons": [
+        {
+          "label": "Click here to play again from the beginning",
+          "target_node": 1
+        }
+      ],
+      "images": [
+        {
+          "src": "31.jpg"
+        }
+      ],
+      "support": "",
+      "content": " After learning to deal with his pain and his everyday activities better, George is feeling more confident that he can cope with any problem that will appear due to his condition. He is feeling safe knowing that a group of specialized Medicare personnel is available to help him out whether he is in need of treatment or advice. Meanwhile his friends and the members of the patient community are there to help him with his emotional trouble.",
+      "subtitle": "",
+      "title": "Conclusion",
+      "progress": 100,
+      "final": 1,
+      "id": 31
+    }
+  ]
+}
